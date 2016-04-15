@@ -1,0 +1,10 @@
+
+.elf
+
+*.o
+
+DegreesToRadians.prg.tns
+
+DegreesToRadians.elf
+
+.tns
